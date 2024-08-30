@@ -1,10 +1,13 @@
+#!/usr/bin/env python3
+
 file = open("../sources/namelist.txt")
 
 print(
     """<style>
             @font-face {
                 font-family: Neanes;
-                src: url('../fonts/Neanes.otf');
+                /* src: url('../fonts/Neanes.otf'); */
+                src: url('../../fonts/Neanes.otf');
             }
 
             .neanes {
