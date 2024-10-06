@@ -52,6 +52,7 @@ OS2SupXOff: 0
 OS2SupYOff: 0
 OS2StrikeYSize: 0
 OS2StrikeYPos: 0
+OS2Vendor: 'PfEd'
 OS2UnicodeRanges: 00000000.00000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
@@ -75,19 +76,20 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "EZ Psaltica"
 Encoding: Mac
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 35 7 5
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 BeginChars: 256 105
 
 StartChar: .notdef
 Encoding: 255 711 0
-AltUni2: 0002db.ffffffff.0 0002dd.ffffffff.0 0000b8.ffffffff.0 0002da.ffffffff.0 0002d9.ffffffff.0 0002d8.ffffffff.0 0002dc.ffffffff.0 0002c6.ffffffff.0 000131.ffffffff.0 0000d9.ffffffff.0 0000db.ffffffff.0 0000da.ffffffff.0 0000d2.ffffffff.0 0000d4.ffffffff.0 0000d3.ffffffff.0 0000cc.ffffffff.0 0000cf.ffffffff.0 0000ce.ffffffff.0 0000cd.ffffffff.0 0000c8.ffffffff.0 0000cb.ffffffff.0 0000c1.ffffffff.0 0000ca.ffffffff.0 0000c2.ffffffff.0 00201e.ffffffff.0 00201a.ffffffff.0 0000b7.ffffffff.0 002021.ffffffff.0 00fb02.ffffffff.0 00fb01.ffffffff.0 00203a.ffffffff.0 002039.ffffffff.0 0000a4.ffffffff.0 002044.ffffffff.0 000178.ffffffff.0 0000ff.ffffffff.0 0000f7.ffffffff.0 002019.ffffffff.0 002018.ffffffff.0 00201d.ffffffff.0 00201c.ffffffff.0 002014.ffffffff.0 000153.ffffffff.0 0000d5.ffffffff.0 0000c3.ffffffff.0 0000c0.ffffffff.0 002026.ffffffff.0 0000bb.ffffffff.0 0000ab.ffffffff.0 002206.ffffffff.0 002248.ffffffff.0 000192.ffffffff.0 00221a.ffffffff.0 0000ac.ffffffff.0 0000a1.ffffffff.0 0000bf.ffffffff.0 0000f8.ffffffff.0 0000e6.ffffffff.0 002126.ffffffff.0 0000ba.ffffffff.0 0000aa.ffffffff.0 0003c0.ffffffff.0 00220f.ffffffff.0 002211.ffffffff.0 002202.ffffffff.0 0000b5.ffffffff.0 0000a5.ffffffff.0 002265.ffffffff.0 002264.ffffffff.0 0000b1.ffffffff.0 00221e.ffffffff.0 0000d8.ffffffff.0 0000c6.ffffffff.0 002260.ffffffff.0 0000a8.ffffffff.0 0000b4.ffffffff.0 002122.ffffffff.0 0000a9.ffffffff.0 0000ae.ffffffff.0 0000df.ffffffff.0 0000b6.ffffffff.0 002022.ffffffff.0 0000a7.ffffffff.0 0000a3.ffffffff.0 0000a2.ffffffff.0 0000b0.ffffffff.0 002020.ffffffff.0 0000fc.ffffffff.0 0000fb.ffffffff.0 0000f9.ffffffff.0 0000fa.ffffffff.0 0000f5.ffffffff.0 0000f6.ffffffff.0 0000f4.ffffffff.0 0000f2.ffffffff.0 0000f3.ffffffff.0 0000f1.ffffffff.0 0000ef.ffffffff.0 0000ee.ffffffff.0 0000ec.ffffffff.0 0000ed.ffffffff.0 0000ea.ffffffff.0 0000e8.ffffffff.0 0000e9.ffffffff.0 0000e7.ffffffff.0 0000e5.ffffffff.0 0000e3.ffffffff.0 0000e4.ffffffff.0 0000e2.ffffffff.0 0000e0.ffffffff.0 0000e1.ffffffff.0 0000dc.ffffffff.0 0000d6.ffffffff.0 0000d1.ffffffff.0 0000c9.ffffffff.0 0000c7.ffffffff.0 0000c5.ffffffff.0 0000c4.ffffffff.0 00007f.ffffffff.0 00001f.ffffffff.0 00001e.ffffffff.0 00001c.ffffffff.0 00001b.ffffffff.0 00001a.ffffffff.0 000019.ffffffff.0 000018.ffffffff.0 000017.ffffffff.0 000016.ffffffff.0 000015.ffffffff.0 000014.ffffffff.0 000013.ffffffff.0 000012.ffffffff.0 000011.ffffffff.0 000010.ffffffff.0 00000f.ffffffff.0 00000e.ffffffff.0 00000c.ffffffff.0 00000b.ffffffff.0 00000a.ffffffff.0 000007.ffffffff.0 000006.ffffffff.0 000005.ffffffff.0 000004.ffffffff.0 000003.ffffffff.0 000002.ffffffff.0 000001.ffffffff.0
+AltUni2: 000001.ffffffff.0 000002.ffffffff.0 000003.ffffffff.0 000004.ffffffff.0 000005.ffffffff.0 000006.ffffffff.0 000007.ffffffff.0 00000a.ffffffff.0 00000b.ffffffff.0 00000c.ffffffff.0 00000e.ffffffff.0 00000f.ffffffff.0 000010.ffffffff.0 000011.ffffffff.0 000012.ffffffff.0 000013.ffffffff.0 000014.ffffffff.0 000015.ffffffff.0 000016.ffffffff.0 000017.ffffffff.0 000018.ffffffff.0 000019.ffffffff.0 00001a.ffffffff.0 00001b.ffffffff.0 00001c.ffffffff.0 00001e.ffffffff.0 00001f.ffffffff.0 00007f.ffffffff.0 0000c4.ffffffff.0 0000c5.ffffffff.0 0000c7.ffffffff.0 0000c9.ffffffff.0 0000d1.ffffffff.0 0000d6.ffffffff.0 0000dc.ffffffff.0 0000e1.ffffffff.0 0000e0.ffffffff.0 0000e2.ffffffff.0 0000e4.ffffffff.0 0000e3.ffffffff.0 0000e5.ffffffff.0 0000e7.ffffffff.0 0000e9.ffffffff.0 0000e8.ffffffff.0 0000ea.ffffffff.0 0000ed.ffffffff.0 0000ec.ffffffff.0 0000ee.ffffffff.0 0000ef.ffffffff.0 0000f1.ffffffff.0 0000f3.ffffffff.0 0000f2.ffffffff.0 0000f4.ffffffff.0 0000f6.ffffffff.0 0000f5.ffffffff.0 0000fa.ffffffff.0 0000f9.ffffffff.0 0000fb.ffffffff.0 0000fc.ffffffff.0 002020.ffffffff.0 0000b0.ffffffff.0 0000a2.ffffffff.0 0000a3.ffffffff.0 0000a7.ffffffff.0 002022.ffffffff.0 0000b6.ffffffff.0 0000df.ffffffff.0 0000ae.ffffffff.0 0000a9.ffffffff.0 002122.ffffffff.0 0000b4.ffffffff.0 0000a8.ffffffff.0 002260.ffffffff.0 0000c6.ffffffff.0 0000d8.ffffffff.0 00221e.ffffffff.0 0000b1.ffffffff.0 002264.ffffffff.0 002265.ffffffff.0 0000a5.ffffffff.0 0000b5.ffffffff.0 002202.ffffffff.0 002211.ffffffff.0 00220f.ffffffff.0 0003c0.ffffffff.0 0000aa.ffffffff.0 0000ba.ffffffff.0 002126.ffffffff.0 0000e6.ffffffff.0 0000f8.ffffffff.0 0000bf.ffffffff.0 0000a1.ffffffff.0 0000ac.ffffffff.0 00221a.ffffffff.0 000192.ffffffff.0 002248.ffffffff.0 002206.ffffffff.0 0000ab.ffffffff.0 0000bb.ffffffff.0 002026.ffffffff.0 0000c0.ffffffff.0 0000c3.ffffffff.0 0000d5.ffffffff.0 000153.ffffffff.0 002014.ffffffff.0 00201c.ffffffff.0 00201d.ffffffff.0 002018.ffffffff.0 002019.ffffffff.0 0000f7.ffffffff.0 0000ff.ffffffff.0 000178.ffffffff.0 002044.ffffffff.0 0000a4.ffffffff.0 002039.ffffffff.0 00203a.ffffffff.0 00fb01.ffffffff.0 00fb02.ffffffff.0 002021.ffffffff.0 0000b7.ffffffff.0 00201a.ffffffff.0 00201e.ffffffff.0 0000c2.ffffffff.0 0000ca.ffffffff.0 0000c1.ffffffff.0 0000cb.ffffffff.0 0000c8.ffffffff.0 0000cd.ffffffff.0 0000ce.ffffffff.0 0000cf.ffffffff.0 0000cc.ffffffff.0 0000d3.ffffffff.0 0000d4.ffffffff.0 0000d2.ffffffff.0 0000da.ffffffff.0 0000db.ffffffff.0 0000d9.ffffffff.0 000131.ffffffff.0 0002c6.ffffffff.0 0002dc.ffffffff.0 0002d8.ffffffff.0 0002d9.ffffffff.0 0002da.ffffffff.0 0000b8.ffffffff.0 0002dd.ffffffff.0 0002db.ffffffff.0
 Width: 208
 VWidth: 345
 GlyphClass: 1
@@ -129,7 +131,7 @@ EndChar
 
 StartChar: uni001D
 Encoding: 29 29 1
-AltUni2: 000008.ffffffff.0 000000.ffffffff.0
+AltUni2: 000000.ffffffff.0 000008.ffffffff.0
 Width: 0
 VWidth: 345
 GlyphClass: 1
