@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1728376454
+ModificationTime: 1728376985
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -120,7 +120,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 28 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -9017,7 +9017,7 @@ StartChar: oligonKentimataBelow
 Encoding: 57474 57474 74
 Width: 1352
 VWidth: 1392
-Flags: HWO
+Flags: HW
 HStem: 162 25<805.819 840.497 1076.44 1110.5> 246 121<182.719 1326.04>
 AnchorPoint: "diesisSecondary" 1596 897 basechar 0
 AnchorPoint: "yfesisSecondary" 425 -145 basechar 0
@@ -10989,7 +10989,7 @@ EndChar
 
 StartChar: oligonKentimaMiddleKentimata
 Encoding: 57477 57477 84
-Width: 1744
+Width: 1647
 VWidth: 345
 Flags: HW
 HStem: 246 121<182.719 1306.04> 418 29<1423.32 1465.89> 671 26<502.137 536.249 772.094 807.249>
@@ -11013,7 +11013,7 @@ Back
 Refer: 66 57472 N 1 0 0 1 1465 0 2
 Refer: 68 57475 N 1 0 0 1 0 0 2
 Fore
-Refer: 66 57472 N 1 0 0 1 1465 0 2
+Refer: 66 57472 N 1 0 0 1 1353 0 2
 Refer: 68 57475 N 1 0 0 1 0 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2-1" oligonKentimataAbove kentima
 LCarets2: 1 0
@@ -17247,8 +17247,8 @@ EndChar
 
 StartChar: oligonKentimaMiddle
 Encoding: 57346 57346 113
-Width: 1794
-Flags: H
+Width: 1647
+Flags: HW
 HStem: 246 121<182.719 1326.04> 418 29<1473.32 1515.89>
 VStem: 1473 303
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
@@ -17277,7 +17277,7 @@ Back
 Refer: 66 57472 N 1 0 0 1 1515 0 2
 Refer: 35 57345 N 1 0 0 1 0 0 2
 Fore
-Refer: 66 57472 N 1 0 0 1 1515 0 2
+Refer: 66 57472 N 1 0 0 1 1353 0 2
 Refer: 35 57345 N 1 0 0 1 0 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2-1" oligon kentima
 LCarets2: 1 0
@@ -19596,7 +19596,7 @@ StartChar: martyriaNoteNiHigh
 Encoding: 57663 57663 135
 Width: 879
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 61 304 344 206
 VStem: 395 59<293.463 348.81> 585 38<253.562 349.008> 779 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
@@ -19787,7 +19787,7 @@ StartChar: martyriaNoteZoHigh
 Encoding: 57662 57662 139
 Width: 931
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 68 49.5<628.021 702.852> 165 61<674.502 714> 344 206
 VStem: 714 33<123.594 160.587> 831 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
@@ -19801,6 +19801,7 @@ Refer: 131 57655 N 1 0 0 1 0 0 2
 Fore
 Refer: 145 57669 N 1 0 0 1 783 0 2
 Refer: 131 57655 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2-1" martyriaNoteZo martyriaTick
 EndChar
 
@@ -19808,7 +19809,7 @@ StartChar: martyriaNotePaHigh
 Encoding: 57664 57664 140
 Width: 885
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 279 86<507.875 561 578.225 666.572> 287 83<395.316 561> 344 206
 VStem: 549 25<155.414 263.283> 785 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
@@ -19829,7 +19830,7 @@ StartChar: martyriaNoteVouHigh
 Encoding: 57665 57665 141
 Width: 849
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 322 30<491.561 535.479> 344 206
 VStem: 360 39<222 298.086> 749 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
@@ -19850,7 +19851,7 @@ StartChar: martyriaNoteGaHigh
 Encoding: 57666 57666 142
 Width: 840
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 344 206
 VStem: 360 70<68 306.678> 586 73<351 421.933> 740 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
@@ -19871,7 +19872,7 @@ StartChar: martyriaNoteDiHigh
 Encoding: 57667 57667 143
 Width: 886
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 68 45<414 626> 344 206
 VStem: 786 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
@@ -19892,7 +19893,7 @@ StartChar: martyriaNoteKeHigh
 Encoding: 57668 57668 144
 Width: 894
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 319 53<401.498 463.497> 344 206
 VStem: 465 21<225.842 312.75> 794 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
