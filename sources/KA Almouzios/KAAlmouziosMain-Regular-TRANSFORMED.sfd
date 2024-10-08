@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1487363816
-ModificationTime: 1728371093
+ModificationTime: 1728371477
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4521,7 +4521,7 @@ Encoding: 49 49 56
 Width: 1353
 VWidth: 1392
 GlyphClass: 1
-Flags: W
+Flags: WO
 LayerCount: 2
 Back
 SplineSet
