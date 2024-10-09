@@ -83,7 +83,7 @@ UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
-FitToEm: 0
+FitToEm: 1
 WinInfo: 0 14 6
 BeginChars: 65537 73
 
